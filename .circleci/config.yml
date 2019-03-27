@@ -13,3 +13,4 @@ jobs:
 
       - run: npm  install
       - run: yarn test
+      # or run - run: npm test
